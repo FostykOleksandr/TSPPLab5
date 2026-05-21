@@ -1,0 +1,14 @@
+F:\AloIT\TSPPLab4\TSPPLab4\bin\Debug\net8.0\TSPPLab4.exe
+F:\AloIT\TSPPLab4\TSPPLab4\bin\Debug\net8.0\TSPPLab4.deps.json
+F:\AloIT\TSPPLab4\TSPPLab4\bin\Debug\net8.0\TSPPLab4.runtimeconfig.json
+F:\AloIT\TSPPLab4\TSPPLab4\bin\Debug\net8.0\TSPPLab4.dll
+F:\AloIT\TSPPLab4\TSPPLab4\bin\Debug\net8.0\TSPPLab4.pdb
+F:\AloIT\TSPPLab4\TSPPLab4\obj\Debug\net8.0\TSPPLab4.GeneratedMSBuildEditorConfig.editorconfig
+F:\AloIT\TSPPLab4\TSPPLab4\obj\Debug\net8.0\TSPPLab4.AssemblyInfoInputs.cache
+F:\AloIT\TSPPLab4\TSPPLab4\obj\Debug\net8.0\TSPPLab4.AssemblyInfo.cs
+F:\AloIT\TSPPLab4\TSPPLab4\obj\Debug\net8.0\TSPPLab4.csproj.CoreCompileInputs.cache
+F:\AloIT\TSPPLab4\TSPPLab4\obj\Debug\net8.0\TSPPLab4.dll
+F:\AloIT\TSPPLab4\TSPPLab4\obj\Debug\net8.0\refint\TSPPLab4.dll
+F:\AloIT\TSPPLab4\TSPPLab4\obj\Debug\net8.0\TSPPLab4.pdb
+F:\AloIT\TSPPLab4\TSPPLab4\obj\Debug\net8.0\TSPPLab4.genruntimeconfig.cache
+F:\AloIT\TSPPLab4\TSPPLab4\obj\Debug\net8.0\ref\TSPPLab4.dll
